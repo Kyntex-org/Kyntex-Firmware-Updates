@@ -5,6 +5,6 @@ Signed firmware artifacts and versioned update feeds, separated from the enginee
 - Legacy feed: [manifest](firmware-updates/manifest.json).
 - Profile-capable feed: [manifest](firmware-updates/profile-v1/manifest.json).
 
-The existing signed images are preserved byte for byte. This repository migration does not create or validate a new firmware release.
+The existing signed images are preserved byte for byte.
 
 Copyright and usage terms are in [LICENSE](LICENSE).
